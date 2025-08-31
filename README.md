@@ -20,7 +20,7 @@ This fork is specialized for:
 Clone or download:
 
 ```bash
-git clone https://github.com/jacquieAM/onnxruntime-lite.git
+git clone https://github.com/JacquieAM/onnxruntime-lite.git
 ```
 Navigate to the cloned folder:
 

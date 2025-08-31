@@ -9,7 +9,7 @@ setup(
     include_package_data=True,
     package_data={
         "onnxruntime.capi": ["*.so"],
-    }
+    },
     python_requires=">=3.12",
     license="Apache 2.0",
     classifiers=[
