@@ -63,4 +63,4 @@ Contributions or further optimizations for other models are welcome.
 
 ## License
 
-THis for is based on ONNX Runtime (https://github.com/microsoft/onnxruntime), which is licensed under the MIT License.
+This fork is based on ONNX Runtime (https://github.com/microsoft/onnxruntime), which is licensed under the MIT License.
