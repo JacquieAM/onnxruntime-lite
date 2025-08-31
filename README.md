@@ -1,5 +1,5 @@
 
-# ONNX Runtime Lite (12 MB)
+# ONNX Runtime Lite (15 MB)
 
 **Ultralight fork of [ONNX Runtime](https://github.com/microsoft/onnxruntime)**, optimized for **resource-constrained environments** such as **AWS Lambda**.
 
@@ -10,7 +10,7 @@ This fork is specialized for:
 
 ##  Why this fork?
 
-* **Tiny footprint** (~12 MB vs >100 MB official builds)
+* **Tiny footprint** (~15 MB vs >100 MB official builds)
 * **AWS Lambda-ready** (fits within size limits for serverless deployments)
 * **Optimized**: stripped of unused ops, kernels, and heavyweight features
 * **Plug-and-play**: drop into Python projects with the same `import onnxruntime`
