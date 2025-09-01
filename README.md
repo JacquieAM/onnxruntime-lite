@@ -45,20 +45,27 @@ session = ort.InferenceSession("model.onnx")
 # Supported Use Cases
 
 MiniLM (Roberta classifier)
+
 T5 seq2seq models
+
 ⚠️ Not a full replacement for standard ONNX Runtime (unsupported ops stripped out)
 
 # Ideal For
 
 AWS Lambda
+
 Serverless environments
+
 Lightweight Docker images
+
 Edge deployments
 
 # Notes
 
 This fork keeps all subfolders necessary for T5 and MiniLM.
+
 The package is deliberately stripped and repackaged to minimize size.
+
 Contributions or further optimizations for other models are welcome.
 
 ## License
