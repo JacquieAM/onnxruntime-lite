@@ -13,8 +13,8 @@ setup(
     python_requires=">=3.12",
     license="Apache 2.0",
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache Software License",
+        "Programming Language :: Python :: 3.12",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
 )
