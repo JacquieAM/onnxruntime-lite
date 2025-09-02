@@ -17,6 +17,15 @@ This fork is specialized for:
 
 ##  Installation
 
+
+### Install via PYPI (recommended)
+
+The easiest way to install:
+```
+pip install onnxruntime-lite
+```
+### Install from GitHub (for development or contributions)
+
 Clone or download:
 
 ```bash
